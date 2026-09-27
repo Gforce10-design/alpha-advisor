@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+advisor-runs/
+tasks/
+*.lock
+auth.json

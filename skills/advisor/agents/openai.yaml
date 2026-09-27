@@ -1,0 +1,4 @@
+interface:
+  display_name: "Advisor"
+  short_description: "Independent advice for consequential decisions"
+  default_prompt: "Use $advisor to independently review this bounded decision."
